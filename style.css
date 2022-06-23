@@ -1,0 +1,39 @@
+
+body {
+    background-color:gray;
+}
+h1 {
+    color:maroon;
+    font-family: Arial;
+    text-align: center;        
+    font-size: 3em;
+    background-color: lightgrey;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid none solid none;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+.normal-text {
+    font-family: monospace;
+    font-size: 1.5em;
+    margin-left: 20px;
+}
+.distorted-text {
+    font-family: monospace;
+    font-size: 1.5em;
+    margin-left: 20px;
+}
+#img1 {
+    height: 300px; 
+    width: 300px;
+    border-color: green;
+    border-width: 5px;
+    border-style: outset;
+    margin-left: 20px;
+}
+#radio-button {
+    font-size: 1em;
+}
