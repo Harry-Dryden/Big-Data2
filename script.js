@@ -1,4 +1,4 @@
 function EvilRobot() {
-    document.getElementByClass("normal-text").innerHTML = ""
-    document.getElementById("img2").src = 'angry2.jpg';
+    document.getElementByClass("normal-text").innerHTML = "You'll see my great plans..." ;
+    document.getElementById("img2").src = 'evil.jpg';
 }
